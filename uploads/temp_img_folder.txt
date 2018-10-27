@@ -1,0 +1,1 @@
+Images are saved here - and deleted when stored in dB
